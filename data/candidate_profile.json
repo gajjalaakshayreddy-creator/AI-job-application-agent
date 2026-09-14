@@ -1,0 +1,100 @@
+{
+  "candidate": {
+    "personal_information": {
+      "name": "Gajjala Akshay Reddy",
+      "email": "gajjalaakshayreddy@gmail.com",
+      "phone": "9182622132",
+      "location": "Hyderabad, India",
+      "linkedin": "https://www.linkedin.com/in/gajjalaakshayreddy/",
+      "github": "https://github.com/gajjalaakshayreddy-creator"
+    },
+
+    "professional_information": {
+      "current_role": "Software Engineer 1",
+      "years_of_experience": 1.5,
+      "previous_roles": [
+        "Fresher"
+      ],
+      "companies": [
+        "MAQ Software"
+      ],
+      "projects": [
+        "Fabric Platform Modernization",
+        "Lender Data Sharing Platform"
+      ]
+    },
+
+    "skills": {
+      "programming": [
+        "C++",
+        "C#",
+        "Python",
+        "SQL",
+        "JavaScript",
+        "PySpark"
+      ],
+      "data": [
+        "Microsoft Fabric",
+        "Azure Data Factory",
+        "Databricks",
+        "Snowflake",
+        "dbt",
+        "ETL Pipelines",
+        "Medallion Architecture",
+        "Data Migration",
+        "Spark SQL",
+        "Delta Lake"
+      ],
+      "cloud": [
+        "Microsoft Azure"
+      ],
+      "ai_ml": [
+        "LLM",
+        "RAG",
+        "AI Agents",
+        "LangChain",
+        "Microsoft Copilot Studio"
+      ],
+      "databases": [
+        "SQL Server",
+        "MySQL"
+      ],
+      "frameworks": [
+        ".NET",
+        "Angular",
+        "React"
+      ]
+    },
+
+    "education": [
+      {
+        "degree": "Bachelor of Technology",
+        "university": "Indian Institute of Information Technology Kottayam",
+        "graduation_year": 2025
+      }
+    ],
+
+    "preferences": {
+      "target_roles": [
+        "Software Engineer",
+        "Data Analyst",
+        "Data Engineer"
+      ],
+      "locations": [
+        "Hyderabad",
+        "Bangalore",
+        "Chennai"
+      ],
+      "work_mode": [
+        "Remote",
+        "Hybrid"
+      ],
+      "minimum_salary": {
+        "amount": 15,
+        "currency": "INR",
+        "unit": "LPA"
+      },
+      "visa_sponsorship": true
+    }
+  }
+}
