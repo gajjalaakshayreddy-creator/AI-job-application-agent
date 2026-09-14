@@ -1,0 +1,18 @@
+from src.collectors.utils import generate_job_hash
+
+
+def test_job_hash_is_deterministic():
+
+    hash_1 = generate_job_hash(
+        "Example AI",
+        "AI Engineer",
+        "India"
+    )
+
+    hash_2 = generate_job_hash(
+        "Example AI",
+        "AI Engineer",
+        "India"
+    )
+
+    assert hash_1 == hash_2
