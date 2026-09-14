@@ -1,11 +1,15 @@
+-e git+https://github.com/gajjalaakshayreddy-creator/AI-job-application-agent.git@27f6eee46b1f3f233f841568ab5bd88108902624#egg=ai_job_application_agent
 annotated-types==0.8.0
 colorama==0.4.6
+greenlet==3.5.6
 iniconfig==2.3.0
 packaging==26.3
 pluggy==1.6.0
+psycopg2-binary==2.9.13
 pydantic==2.13.5
 pydantic_core==2.46.5
 Pygments==2.21.0
 pytest==9.1.1
+SQLAlchemy==2.0.52
 typing-inspection==0.4.4
 typing_extensions==4.16.0
