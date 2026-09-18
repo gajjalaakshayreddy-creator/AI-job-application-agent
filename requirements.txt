@@ -1,11 +1,13 @@
--e git+https://github.com/gajjalaakshayreddy-creator/AI-job-application-agent.git@8360796501e8fbc12108c50beecc1b714a2001fd#egg=ai_job_application_agent
+-e git+https://github.com/gajjalaakshayreddy-creator/AI-job-application-agent.git@2cdd0daa00e0b96a625a419d88db12646a455eb5#egg=ai_job_application_agent
 annotated-doc==0.0.5
 annotated-types==0.8.0
 anyio==4.15.1
 certifi==2026.7.22
+charset-normalizer==3.5.1
 click==8.5.0
 cloudpickle==3.1.2
 colorama==0.4.6
+fastapi==0.141.1
 filelock==3.32.6
 fsspec==2026.7.0
 greenlet==3.5.6
@@ -34,6 +36,7 @@ Pygments==2.21.0
 pytest==9.1.1
 PyYAML==6.0.3
 regex==2026.9.10
+requests==2.34.2
 rich==15.0.0
 safetensors==0.8.0
 scikit-learn==1.9.1
@@ -42,6 +45,7 @@ sentence-transformers==6.0.1
 setuptools==84.0.0
 shellingham==1.5.4
 SQLAlchemy==2.0.52
+starlette==1.6.0
 sympy==1.14.0
 threadpoolctl==3.7.0
 tokenizers==0.23.2
@@ -51,3 +55,5 @@ transformers==5.17.0
 typer==0.27.2
 typing-inspection==0.4.4
 typing_extensions==4.16.0
+urllib3==2.8.0
+uvicorn==0.53.0
